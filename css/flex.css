@@ -1,0 +1,8 @@
+#flex{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    flex-flow: wrap;
+    justify-content: center;
+    flex-grow: inherit;
+}
